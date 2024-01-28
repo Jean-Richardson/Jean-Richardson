@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, meu nome é Jean Richardson!<br><br>Seja bem vindo! Gosto de tecnologia e venho buscando formas de melhorar meu aprendizado e ampliar meu conhecimento.<br><br>Atualmente sou estudante do curso de TI da UFERSA Campus Pau dos Ferros e aluno do IMD da UFRN.<br><br>Meus hobbies são jogas vídeo games, ler e lutar muay thai.<br><br>Abaixo estão as linguagem de programação que eu já usei ou uso.
+Olá, meu nome é Jean Richardson!<br><br>Seja bem vindo! Gosto de tecnologia e venho buscando formas de melhorar meu aprendizado e ampliar meu conhecimento.<br><br>Atualmente sou estudante do curso de TI da UFERSA Campus Pau dos Ferros e aluno do IMD da UFRN.<br><br>Abaixo estão as linguagem de programação que eu já usei ou uso.
 
 
 # 💻 Linguagens:
